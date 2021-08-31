@@ -194,7 +194,7 @@ class HomePage extends StatelessWidget {
                         id: 1,
                         imageUrl: 'assets/tips1.png',
                         title: 'City Guideline',
-                        updatedAt: '30 Agust',
+                        updatedAt: '29 Agust',
                       ),
                     ),
                     SizedBox(
